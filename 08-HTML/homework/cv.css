@@ -1,0 +1,33 @@
+* {
+	margin: auto;
+}
+body {
+	background-image: url("https://i.pinimg.com/564x/59/6b/8f/596b8fed52b2cedb3addf527c150534c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    text-align: center;
+}
+ul {
+	list-style: none;
+}
+
+
+h1 {
+	color: darkred;
+}
+img {
+ width: 400px;
+ position: ;
+}
+
+. {
+	width: 500px;
+	height: 600px;
+    padding: 50px;
+    border: 4px solid black;
+}
+. {
+  font-size: 18px;
+  margin: 50px;
+}
